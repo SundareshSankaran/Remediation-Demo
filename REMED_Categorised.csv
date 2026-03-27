@@ -1,0 +1,30 @@
+__uniqueid__,_category_,keywords,_score_,Category level_1,path,fileName,fileType,fileSize,fileDate
+101.0,Transactional Risks,large | transactions | cross-border | transactions | transaction | cross-border | cross-border,28.0,Transactional Risks,/mnt/viya-share/data/remediation_demo/doc,Accent Holdings LLC.pdf,pdf,221025.0,2026-03-27 05:47:45.0216
+101.0,Acquisition,acquired,1.0,Acquisition,/mnt/viya-share/data/remediation_demo/doc,Accent Holdings LLC.pdf,pdf,221025.0,2026-03-27 05:47:45.0216
+201.0,Jurisdictional Risk,"Bermuda registry showedno enforcement actions but flagged ""complex | Bermuda incorporation | Bermuda incorporation further amplified governance opacity",3.0,Jurisdictional Risk,/mnt/viya-share/data/remediation_demo/doc,Nevis Energy Partners LLC.docx,docx,20657.0,2026-03-27 05:47:45.3426
+201.0,Management Experience,Short Management Tenure | short management tenure,2.0,Management Experience,/mnt/viya-share/data/remediation_demo/doc,Nevis Energy Partners LLC.docx,docx,20657.0,2026-03-27 05:47:45.3426
+201.0,Acquisition,acquired | acquisition,2.0,Acquisition,/mnt/viya-share/data/remediation_demo/doc,Nevis Energy Partners LLC.docx,docx,20657.0,2026-03-27 05:47:45.3426
+301.0,Jurisdictional Risk,"High Transaction Velocity (Score: 0.91/1.0)
+	Jurisdictional Overlay (Bermuda | Bermuda registry showedno 
+enforcement actions but flagged ""complex | Bermuda incorporation | Bermuda incorporation further amplified governance opacity",4.0,Jurisdictional Risk,/mnt/viya-share/data/remediation_demo/doc,Nevis Energy Partners LLC.pdf,pdf,189524.0,2026-03-27 05:47:45.5736
+301.0,Management Experience,"Short Management Tenure | Short Management Tenure | short 
+management tenure",3.0,Management Experience,/mnt/viya-share/data/remediation_demo/doc,Nevis Energy Partners LLC.pdf,pdf,189524.0,2026-03-27 05:47:45.5736
+301.0,Acquisition,acquired | acquisition,2.0,Acquisition,/mnt/viya-share/data/remediation_demo/doc,Nevis Energy Partners LLC.pdf,pdf,189524.0,2026-03-27 05:47:45.5736
+401.0,Jurisdictional Risk,"Cayman Islands incorporation | Cayman Islands incorporation, high transaction volumes through complex | Cayman Islands incorporation, high | Cayman Islands incorporation, high | Cayman Islands incorporation | Cayman Islands incorporation | Cayman Islands incorporation, high transaction volumes through complex multi-
+jurisdictional payment chains, and outdated | Cayman Islands incorporation, high transaction volumes through complex multi-
+jurisdictional payment chains, and outdated | Cayman Islands incorporation | Cayman Islands incorporation | Cayman Islands-incorporated 
+retail entity with Singapore registered office—was flagged during the Q4 2025 Legacy 
+Relationship Portfolio Review for jurisdictional risk and transaction 
+complexity | Cayman Islands incorporation immediately triggered high | Cayman Islands incorporation, high transaction volumes through complex | Cayman Islands incorporation immediately triggered high | complexity 
+• US CEO residency (Denver, IL) added cross-border control concerns 
+• Legacy KYC from 2015 failed to address post-2018 Cayman | High velocity: $1.37B transactions against $2.26B assets (0.61x turnover) 
+• Complex flows: 317 distinct counterparties across 42 countries 
+• Layered payments: Funds frequently routed US → Singapore → Cayman | Complex flows: 317 distinct counterparties across 42 countries 
+• Layered payments: Funds frequently routed US → Singapore → Cayman | Incorporation (no Cayman | 26 voting stakeholders confirmed with Cayman | Complexity ❌ PERSISTENT 
+   ├── Cayman | Cayman incorporation | Cayman incorporation (high | Cayman Islands incorporation",23.0,Jurisdictional Risk,/mnt/viya-share/data/remediation_demo/doc,RLK Systems Inc.pdf,pdf,385052.0,2026-03-27 05:47:45.9066
+401.0,KYC,"complexity 
+• US CEO residency (Denver, IL) added cross-border control concerns 
+• Legacy KYC | outdated Legacy KYC | complex multi-
+jurisdictional payment chains, and outdated Legacy KYC | high transaction volumes through complex multi-
+jurisdictional payment chains, and outdated Legacy KYC",4.0,KYC,/mnt/viya-share/data/remediation_demo/doc,RLK Systems Inc.pdf,pdf,385052.0,2026-03-27 05:47:45.9066
+401.0,Acquisition,acquired,1.0,Acquisition,/mnt/viya-share/data/remediation_demo/doc,RLK Systems Inc.pdf,pdf,385052.0,2026-03-27 05:47:45.9066
